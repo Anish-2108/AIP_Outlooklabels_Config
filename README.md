@@ -27,3 +27,9 @@ Get Label Information
 Get Label and policy settings
 
 ![Dashboard](https://anishpathan.files.wordpress.com/2020/05/label_setting.png)
+
+  DISCLAIMER
+
+
+The owners, authors and contributors assume no liability or responsibility for your work. Please independently confirm anything you read before executing any changes or implementing new products or services in your own environment.
+
