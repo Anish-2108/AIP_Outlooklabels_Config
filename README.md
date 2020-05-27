@@ -2,8 +2,7 @@
 
 DESCRIPTION
 
-AIP Outlook custom configuration settings.
-It uses a policy advanced setting that you must configure by using Office 365 Security & Compliance Center PowerShell.
+AIP Outlook custom configuration settings is a advanced policy setting that you must configure by using Office 365 Security & Compliance Center PowerShell.
 
 It allows admins to restrict, warn users before sending out an email. Pop-up message can be customized as per your own requirements.
 These setting can be configured with labels and policies. Check out PS commands from the repositories to apply these settings.
